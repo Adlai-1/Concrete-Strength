@@ -7,3 +7,6 @@ The correlation obtained for the dataset can be found in the notebook file.
 
 # Dataset
 The dataset was obtained solely from Kaggle!
+
+# Tech Stack 
+Python
