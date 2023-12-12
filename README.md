@@ -1,5 +1,5 @@
 # Concrete-Strength
-A linear Regression Model to determine the Strength of Concrete.
+A Multi-variable linear Regression Model to determine the strength of concrete.
 
 # Just to Know
 The independent variables used for the model are obtained from the correlation obtained between the features in the dataset.
